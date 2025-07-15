@@ -30,9 +30,9 @@ A fun and interactive **Number Guessing Game** built with Python. The computer r
 
 ## Screenshots
 ## Code:
-![image]()
+![image](https://github.com/ashishyadav-1510/PRODIGY_SD_02/blob/main/screenshot/Screenshot%202025-07-15%20102318.png?raw=true)
 ## Output:
-![image]()
+![image](https://github.com/ashishyadav-1510/PRODIGY_SD_02/blob/main/screenshot/Screenshot%202025-07-15%20102351.png?raw=true)
 
 ## Video:
 [Video on YouTube]()
